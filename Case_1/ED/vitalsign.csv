@@ -1,0 +1,3 @@
+,subject_id,stay_id,charttime,temperature,heartrate,resprate,o2sat,sbp,dbp,rhythm,pain
+56805,10353671,33443546,2121-08-14 13:27,98.2,90,18,95,158,92,,1
+56806,10353671,33443546,2121-08-14 17:29,,56,16,95,131,82,,0
