@@ -1,2 +1,0 @@
-,dicom_id,subject_id,study_id,PerformedProcedureStepDescription,ViewPosition,Rows,Columns,StudyDate,StudyTime,ProcedureCodeSequence_CodeMeaning,ViewCodeSequence_CodeMeaning,PatientOrientationCodeSequence_CodeMeaning,in_eye_gaze,in_reflacx,StudyDateTime,stay_id
-13202,9b00bfd9-c8d1871a-74623a5d-73f2f0b1-f13aa0ad,10353671,52435728,CHEST (PA AND LAT),PA,3056,2544,21210814,172454.75,CHEST (PA AND LAT),postero-anterior,Erect,True,False,21210814172454.75,33443546.0
